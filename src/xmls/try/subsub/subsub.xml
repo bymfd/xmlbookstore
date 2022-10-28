@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+<book>
+			
+			<name>உன்னை நீ அறிவாய்! – உளவியல் கட்டுரைகள் </name>
+			<author>நிர்மலா ராகவன்</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>அன்புள்ள மணிமொழிக்கு – கடிதங்கள் </name>
+			<author>தேமொழி</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>அனிச்ச மலர்கள் – சிறுகதைகள் </name>
+			<author>தேமொழி</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>வாழு வாழவிடு – சிறுகதைகள் </name>
+			<author>பொன் குலேந்திரன்</author>
+	
+			</book>
+	
+	
+			<book>
+			
+			<name>அருள் பொழியும் நிழல் பாதைகள்</name>
+			<author>ஜேம்ஸ் ஆலன் – தமிழில் சே.அருணாசலம்</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>எளிய தமிழில் Agile/Scrum – மென்பொருள் திட்ட மேலாண்மை</name>
+			<author>இரா. அசோகன்</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>﻿முள்வேலிக்குப் பின்னால் – குறு நாவல்</name>
+			<author>பொன் குலேந்திரன்</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>அதே நிலா – சமூக நாவல்</name>
+			<author>நிர்மலா ராகவன்</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>கியூரியாசிட்டி – அறிவியல் கட்டுரைகள்</name>
+			<author>பிரவீண் குமார்</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>பூத்ததும் பறித்ததும் – கவிதை தொகுப்பு</name>
+			<author>கொ.வை.அரங்கநாதன்</author>
+	
+			</book>
+	
+			<book>
+			
+			<name>முன்னேறு!முன்னேற்று!! – தனலட்சுமி சீனிவாசன் வாழ்க்கை வரலாறு </name>
+			<author>என் சி மோகன்தாஸ்</author>
+	
+			</book>	
+	
+		<book>
+		
+		<name>ராஜராஜ சோழனும் விஞ்ஞானி ராஜாமணியும்</name>
+		<author>யோகி</author>
+
+		</book>
+
+			
+		<book>
+		
+		<name>காலம்</name>
+		<author>பொன் குலேந்திரன்</author>
+
+		</book>
+
+			
+		<book>
+		
+		<name>நீ கடவுளா? </name>
+		<author>வே. கடல் அமுதம்</author>
+
+		</book>
+	
+	
+		<book>
+		
+		<name>மண்ணில்லை பெண்</name>
+		<author>நிர்மலா ராகவன்</author>
+
+		</book>
+	
+	
+		<book>
+		
+		<name>இணையத்தில் தமிழ் மின்னூல்கள்</name>
+		<author>க.பிரகாஷ்</author>
+
+		</book>
+
+			
+		<book>
+		
+		<name>வானத்தை தொட்டவன்</name>
+		<author>என்.சி.மோகன்தாஸ்</author>
+
+		</book>
+
+		<book>
+		
+		<name>ஆண் துணை</name>
+		<author>நிர்மலா ராகவன்</author>
+
+		</book>
+			
+		<book>
+		
+		<name>தவழும் பருவம்</name>
+		<author>என்.சி.மோகன்தாஸ்</author>
+
+		</book>
+	
+		<book>
+		
+		<name>தொழிலியல் விஞ்ஞானி ஜி. டி. நாயுடு   </name>
+		<author>என். வி. கலைமணி </author>
+
+		</book>
+
+
+
+ 		<book>
+		
+		<name>பல்நோக்குக் கட்டுரைக் களஞ்சியம்  </name>
+		<author>க.பிரகாஷ் </author>
+
+		</book>
+	
+	
+                <book>
+		
+		<name>அரிய இயல் தாவரங்கள் (சேர்வராயன் மலை)  </name>
+		<author>ஏற்காடு இளங்கோ</author>
+
+		</book>
+
+
+
+
+                <book>
+		
+		<name>தன்னம்பிக்கை தமிழர்கள்  </name>
+		<author>என்.சி.மோகன்தாஸ்</author>
+
+		</book>
+
+
+
+
+                <book>
+		
+		<name>காதலென்பது </name>
+		<author>கா.பாலபாரதி</author>
+
+		</book>
+	
+	 	<book>
+		
+		<name>பழைய குப்பைகள் </name>
+		<author>ஜோதிஜி திருப்பூர்</author>
+
+		</book>
+	
+                <book>
+		
+		<name>திருவெம்பாவை (உரையுடன்)</name>
+		<author>பார்வதி இராமச்சந்திரன்</author>
+
+		</book>
+	
+		<book>
+		
+		<name>பெருமாள்முருகன் நாவல்களில் தலித் சிறார்களின் காட்சிப் படிமங்கள்</name>
+		<author>கி.செந்தில்குமரன்</author>
+
+		</book>
+
+		<book>
+		
+		<name>விழா எடுத்துப்பார்</name>
+		<author>என்.சி.மோகன்தாஸ்</author>
+
+		</book>
+
+		<book>
+		
+		<name>அவ்வப்போது</name>
+		<author>நூருத்தீன்</author>
+
+		</book>
+
+		<book>
+		
+		<name>தேவ்பூமி – ஹிமாச்சல்</name>
+		<author>வெங்கட் நாகராஜ்</author>
+
+		</book>
+	
+	
+		<book>
+		
+		<name>எளிய தமிழில் WordPress</name>
+		<author>தமிழ்</author>
+
+		</book>
+
+
+		<book>
+		
+		<name>எளிய தமிழில் Selenium</name>
+		<author>து.நித்யா</author>
+
+		</book>
+
+
+	
+		<book>
+		
+		<name>தருமபுரி வட்டார நாட்டுப்புற மருத்துவம்</name>
+		<author>க.பிரகாஷ் </author>
+
+		</book>
+
+		<book>
+		
+		<name>திருமந்திரம் – பாயிரமும் முதல் தந்திரமும் – விளக்க உரையுடன்</name>
+		<author>ரய்</author>
+
+		</book>
+
+
+
+
+
+		<book>
+		
+		<name>தந்தை பெரியார்</name>
+		<author>அமரர் கே. பி. நீலமணி</author>
+
+		</book>
+
+
+
+
+
+
+		<book>
+		
+		<name>மாணிக்கவாசகப் பெருமான் அருளிய ‘திருப்பொன்னூசல்’—பொருளுரை</name>
+		<author>பேயோன்</author>
+
+		</book>
+
+
+
+
+		<book>
+		
+		<name>மாப்பிள்ளைக்குக் காராபூந்தி பிடிக்கும் (கவிதைகள்)</name>
+		<author>பேயோன்</author>
+
+		</book>
+
+
+		<book>
+		
+		<name>காதலிசை – கவிதைகள்</name>
+		<author>ராகவேந்திரன் பாலகிருஷ்ணன்</author>
+
+		</book>
+
+
+
+		<book>
+		
+		<name>மூன்றாம் கண் – அறிவியல் கட்டுரைகள்</name>
+		<author>ஏற்காடு இளங்கோ</author>
+
+		</book>
+		
+		<book>
+		
+		<name>நேரம் சரியாக – துல்லிய நேர அளவீடு</name>
+		<author>ரவி நடராஜன்</author>
+
+		</book>
+
+		<book>
+		
+		<name>20 மரபுக் கதைகள்</name>
+		<author>பொன் குலேந்திரன்</author>
+
+		</book>
+
+		<book>
+		
+		<name>எனக்கே எனக்காய் – நாவல்</name>
+		<author>என்.சி.மோகன்தாஸ்</author>
+
+		</book>
+		<book>
+		
+		<name>எளிய தமிழில் CSS</name>
+		<author>து.நித்யா</author>
+
+		</book>
+
+		<book>
+		
+		<name>சிந்தித்தால் சிரிப்பு வரும் (அல்லது) அலுவலர்களின் அட்டகாசம் – கட்டுரைகள்</name>
+		<author>பி.எஸ்.பசுபதிலிங்கம்</author>
+
+		</book>
+
+		<book>
+		
+		<name>மழையில் குளித்த வெயில் – கவிதைகள்</name>
+		<author>விக்கி</author>
+
+		</book>
+
+		<book>
+		
+		<name>அலையும் மனமும் வதியும் புலமும் – கதைகள்</name>
+		<author>சந்திரவதனா</author>
+
+		</book>
+
+		<book>
+		
+		<name>வடதிருமுல்லைவாயில் கொடியிடை நாயகி ஆலயம்</name>
+		<author>தமிழ்த்தேனீ</author>
+
+		</book>
+
+
+		<book>
+		
+		<name>அப்துல் கலாமின் கவிதைகளும், மேற்கோள்களும்</name>
+		<author>ஏற்காடு இளங்கோ</author>
+
+		</book>
+		
+		<book>
+		
+		<name>பார்வையற்ற முதல் பட்டதாரி பெண் ஹெலன் கெல்லர்</name>
+		<author>ஏற்காடு இளங்கோ</author>
+
+		</book>
+
+		<book>
+		
+		<name>தொழிலாளர் இல்லாத வளர்ச்சியா?</name>
+		<author>ஸ்ரீ ஸம்பத்</author>
+
+		</book>
+		
+		<book>
+		
+		<name>விரியும் வனம்</name>
+		<author>மு. கோபி சரபோஜி</author>
+
+		</book>
+
+		<book>
+		
+		<name>சலனக்கிரீடம்</name>
+		<author>மு. கோபி சரபோஜி</author>
+
+		</book>
+
+		<book>
+		
+		<name>கொலுசு – மார்ச் – 2016</name>
+		<author>நிறுவனர்-மு. அறவொளி</author>
+
+		</book>
+
+		<book>
+		
+		<name>நாளைய பெண்கள் சுயமாக வாழ</name>
+		<author>சந்திரவதனா</author>
+
+		</book>
+		
+		<book>
+		
+		<name>சரோஜா பாட்டி கதைகள்</name>
+		<author>சங்கர் ஜெயகணேஷ்</author>
+
+		</book>
+
+		<book>
+		
+		<name>சாலை வளைவில்</name>
+		<author>கா.பாலபாரதி</author>
+
+		</book>
+		
+		<book>
+		
+		<name>இணைய மனிதன் 1.0 காதல் முதல் கணினி வரை</name>
+		<author> ரகுபதி</author>
+
+		</book>
+		
+		<book>
+		
+		<name>பார்வை</name>
+		<author>பொன் குலேந்திரன்</author>
+
+		</book>
+		
+		<book>
+		
+		<name>மனஓசை – சிறுகதைகள்</name>
+		<author>சந்திரவதனா</author>
+
+		</book>
+
+		<book>
+		
+		<name>எளிய தமிழில் PHP</name>
+		<author>இரா.கதிர்வேல்</author>
+
+		</book>
+
+		<book>
+		
+		<name>உள்ளத்திலிருந்தே வாழ்வு</name>
+		<author>ஜேம்ஸ் ஆலன், தமிழில் சே.அருணாசலம்</author>
+
+		</book>
+		
+		<book>
+		
+		<name>மத்தியப் பிரதேசம் அழைக்கிறது</name>
+		<author>வெங்கட் நாகராஜ்</author>
+
+		</book>
+
+		<book>
+		
+		<name>சோலை வனம் – கவிதைகள்</name>
+		<author>இரா. பாரதி</author>
+
+		</book>
+
+		<book>
+		
+		<name>எளிய இனிய கணினி மொழி – ரூபி</name>
+		<author>பிரியா சுந்தரமூர்த்தி</author>
+
+		</book>
+
+		<book>
+		
+		<name>செல்வக் களஞ்சியமே – குழந்தை வளர்ப்பு அனுபவத் தொடர்</name>
+		<author>ரஞ்சனி நாராயணன்</author>
+
+		</book>
+
+		<book>
+		
+		<name>தீப்பந்தம் – குறுங்கவிதைகள்</name>
+		<author>கா. பாலபாரதி</author>
+
+		</book>
+		
+		<book>
+		
+		<name>வெற்றிச் சக்கரம் – சிறுகதைகள் </name>
+		<author>தமிழ்த்தேனீ</author>
+
+		</book>
+
+		<book>
+		
+		<name>நான் பெண்தான் (மலேசிய சிறுகதைகள்)</name>
+		<author>நிர்மலா ராகவன்</author>
+
+		</book>
+		
+		<book>
+		
+		<name>சிதம்பர ரகசியம்</name>
+		<author>கீதா சாம்பசிவம்</author>
+
+		</book>
+		
+		<book>
+		
+		<name>தூண்டுகோல் – சிறுகதைகள்</name>
+		<author>இரா.பாரதி</author>
+
+		</book>
+		
+		<book>
+		
+		<name>ஏதோவும் ஏதாவதும் – கவிதைகள்</name>
+		<author>நேதாஜிதாசன்</author>
+
+		</book>
+		
+		<book>
+		
+		<name>திருப்பூவணப் புராணம்</name>
+		<author>மு​னைவர். கி. காளைராசன்</author>
+
+		</book>
+
+		<book>
+		
+		<name>விஞ்ஞான முட்டி மோதல்</name>
+		<author>ரவி நடராஜன்</author>
+
+		</book>
+		
+		<book>
+		
+		<name>மரணமடைந்த எழுத்துக்களின் புலம்பல்  </name>
+		<author>நேதாஜிதாசன்</author>
+
+		</book>
+
+		<book>
+		
+		<name>மனிதன்: மனம், உடல், சூழ்நிலையின் தலைவன்   </name>
+		<author>ஜேம்ஸ் ஆலன், தமிழில் சே.அருணாசலம்</author>
+
+		</book>
+
+
+		<book>
+		
+		<name>குறும்புக் கவிதைகள்   </name>
+		<author>தமிழ்த்தேனீ</author>
+
+		</book>
+		
+		
+		<book>
+		
+		<name>முதல் புத்தகம்   </name>
+		<author>தமிழ்</author>
+
+		</book>
+
+
+
+
+		<book>
+		
+		<name>தெய்வீக சிந்தனைகள்   </name>
+		<author>ஆ.வேலு</author>
+
+		</book>
+
+		<book>
+		
+		<name>புகைப்பட அனுபவங்கள்   </name>
+		<author>கல்பட்டு நடராஜன்</author>
+
+		</book>
+
+
+
+
+
+
+
+
+
+		<book>
+		
+		<name>கொஞ்சம் காசு கொஞ்சம் கல்வி  </name>
+		<author>ஜோதிஜி திருப்பூர்</author>
+
+		</book>
+
+
+
+
+
+
+		<book>
+		
+		<name>படிக்கலாம் வாங்க – புத்தக விமரிசனங்கள்  </name>
+		<author>அரவிந்த்</author>
+
+		</book>
+
+
+
+
+
+
+		<book>
+		
+		<name>பெத்தவங்க – கவிதைகள் </name>
+		<author>சடையன் பெயரன்</author>
+
+		</book>
+
+
+
+
+
+
+		<book>
+		
+		<name>ஓஷோ விழிப்புணர்வுக் கதைகள் </name>
+		<author>ஓஷோ சித்</author>
+
+		</book>
+
+
+
+
+		<book>
+		
+		<name>samae</name>
+		<author>samae</author>
+
+		</book>
+		
+		<book>
+		
+		<name>samae</name>
+		<author>samae</author>
+
+		</book>
+
+
+	<book>
+		
+		<name>அதிர்ஷ்டம் உன் காயங்களை ஆற்றும்</name>
+		<author>பேயோன்</author>
+
+	</book>
+
+
+	<book>
+		
+		<name>மகிழ்ச்சிக்கும் வெற்றிக்குமான அடித்தளம்</name>
+		<author>ஜேம்ஸ் ஆலன்</author>
+
+	</book>
+
+
+	<book>
+		
+		<name>மீண்டும் சந்திப்போமா… கவிதைகள்</name>
+		<author>சடையன் பெயரன்</author>
+
+	</book>
+
+
+	<book>
+		
+		<name>ஏரிகள் நகரம் – நைனிதால்</name>
+		<author>வெங்கட் நாகராஜ்</author>
+
+	</book>
+	
+	<book>
+		
+		<name>சில நினைவுகள்</name>
+		<author>காமாட்சி மஹாலிங்கம்</author>
+
+	</book>
+	<book>
+		
+		<name>ஜவ்வரிசி வடாம், உள் பனியன் மற்றும் ஒரு ரேடியோ விளம்பரம் – கட்டுரைகள்</name>
+		<author>சித்ரன் ரகுநாத்</author>
+
+	</book>
+	<book>
+		
+		<name>இருபதிலிருந்து இன்று வரை – கவிதைகள்</name>
+		<author>வ.தென்னவன்</author>
+
+	</book>
+	<book>
+		
+		<name>காணாமல் போன நண்பர்கள்</name>
+		<author>தருமி</author>
+
+	</book>
+	<book>
+		
+		<name>காவிய உபதலைவன்</name>
+		<author>என். சொக்கன்</author>
+
+	</book>
+	<book>
+		
+		<name>மாணவ மஹாராஜா </name>
+		<author>என். சொக்கன்</author>
+
+	</book>
+	<book>
+		
+		<name>வகுப்பறைச் சாரல்கள் – கவிதைகள்</name>
+		<author> நவீன் ராஜ் தங்கவேல் </author>
+
+	</book>
+	<book>
+		
+		<name>பெரும்பாலும் குறுங்கவிதைகள்</name>
+		<author>பேயோன்</author>
+
+	</book>
+
+	<book>
+		
+		<name>தொடர்பு எல்லைக்கு வெளியே – சிறுகதைகள்</name>
+		<author>சித்ரன் ரகுநாத்</author>
+
+	</book>
+	<book>
+		
+		<name>மூலிகை வளம்</name>
+		<author>குப்புசாமி</author>
+
+	</book>
+	<book>
+		
+		<name>எளிய தமிழில் HTML</name>
+		<author>து.நித்யா</author>
+
+	</book>
+	<book>
+		
+		<name>கால் கிலோ காதல் அரை கிலோ கனவு – நாவல்</name>
+		<author>பா. ராகவன்</author>
+
+	</book>
+	<book>
+		
+		<name>விழியில் வலி தந்தவனே – நாவல்</name>
+		<author>தனிமரம் நேசன்</author>
+
+	</book>
+	<book>
+		
+		<name>எளிய தமிழில் MySQL – பாகம் 2</name>
+		<author>து.நித்யா</author>
+
+	</book>
+	<book>
+		
+		<name>ச்சீய்…</name>
+		<author>சி.சரவணகார்த்திகேயன்</author>
+
+	</book>
+	<book>
+		
+		<name>சரித்திரம் காட்டும் புகைப்படங்கள்</name>
+		<author>ஏற்காடு இளங்கோ</author>
+
+	</book>
+	<book>
+		
+		<name>இணையில்லா இந்திய அறிவியல்</name>
+		<author>இரா. சிவராமன்</author>
+
+	</book>
+	<book>
+		
+		<name>தண்டோரா கதைகள் – சிறுகதைகள்</name>
+		<author>விஜயலக்ஷ்மி சுஷில்குமார்</author>
+
+	</book>
+	<book>
+		
+		<name>நீதியைத் தேடி</name>
+		<author>வாரன்ட்   பாலா  </author>
+
+	</book>
+	<book>
+		
+		<name>ஒரு வாசகம் – திருமுறைக் கட்டுரைகள்</name>
+		<author>சு.கோதண்டராமன்</author>
+
+	</book>
+    </bookstore>
